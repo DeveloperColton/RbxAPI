@@ -1,0 +1,20 @@
+{
+    "name": "RbxApi",
+    "description": "A simple proxy for proxying requests to the ROBLOX API from a ROBLOX game.",
+    "keywords": [
+      "roblox",
+      "proxy"
+    ],
+    "repository": "https://github.com/ProgrammerColton/RbxApi",
+    "env": {
+      "TOKEN_KEY": {
+        "description": "A secret key for verifying the authentication of the request.",
+        "generator": "secret"
+      },
+      "ALLOWED_HOSTS": {
+        "description": "A list of hosts that are allowed.",
+        "required": true,
+        "value": "https:api.roblox.com"
+      }
+    }
+  }
