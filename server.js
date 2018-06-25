@@ -40,11 +40,13 @@ function proxyReq(proxyReq, res, res, options){
 
 // Check authentication.
 function checkAuthentication(req, res){
-    if(!req.headers.token == token){
+    if(req.headers.token == token){
+        return true;
+    } else {
         return false;
     }
-    return true;
 }
+
 
 // Proxy error.
 function proxyError(err, req, res){
