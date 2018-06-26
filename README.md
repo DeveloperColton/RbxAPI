@@ -27,7 +27,7 @@ I made it pretty simple to get it up and going, so go ahead and listen to the in
 The set-up in ROBLOX studio is as easy as the setting up on heroku. 
 
 - Create a script inside ServerScriptService.
-- Put 2 ModuleScripts inside.
+- Put 2 ModuleScripts inside the script.
 - Name the script to whatever you wish.
 - Name one of the ModuleScripts to "Settings" and the other to RbxAPIModule.
 
