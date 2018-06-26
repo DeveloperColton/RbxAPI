@@ -31,6 +31,8 @@ The set-up in ROBLOX studio is as easy as the setting up on heroku.
 - Name the script to whatever you wish.
 - Name one of the ModuleScripts to "Settings" and the other to RbxAPIModule.
 
+You can either from the model from [here](https://www.roblox.com/library/2002142793/API-Example) or follow the rest of the instructions.
+
 - Put the following code (or grab it from [here](https://github.com/ProgrammerColton/RbxAPI/blob/master/roblox/rbxapi.lua)) inside the server script:
 ```lua
 --[[
