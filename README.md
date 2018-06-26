@@ -1,7 +1,6 @@
 # RbxAPI
-# RbxApi
 
-RbxApi is a simple, open source proxy server that is used to request stuff from the ROBLOX api and return it to you. 
+RbxAPI is a simple, open source proxy server that is used to request stuff from the ROBLOX api and return it to you. 
 
 This is my first ever so called "public" project and I don't really expect anyone to use it. I simply did it for fun and for my own use in my projects. 
 
