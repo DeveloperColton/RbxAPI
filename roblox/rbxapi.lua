@@ -17,6 +17,11 @@ __________________________________________________________
 	GET /endpoint
 	ex: /users/1
 	
+	As well, here is the respositroy link:
+	https://github.com/ProgrammerColton/RbxAPI
+	
+	__________________________________________________________
+	
 	Here is a great documentation on the various ROBLOX apis. 
 	https://github.com/matthewdean/roblox-web-apis
 	
